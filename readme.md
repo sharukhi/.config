@@ -42,3 +42,20 @@ eval "$(oh-my-posh init bash --config ~/.config/prompt.omp.json"
 exec bash
 ```
 
+**9. Reboot your system.**
+## Acknowledgements
+
+- Power menu script by [@jluttine](https://github.com/jluttine/rofi-power-menu)
+- Dunst configuration by [@ericmurphyxyz](https://github.com/ericmurphyxyz/dotfiles/tree/master/.config/dunst)
+- i3lock-color [dracula theme](https://draculatheme.com/i3lock-color)
+- Catppuccin [polybar](https://github.com/catppuccin/polybar)
+, [i3](https://github.com/catppuccin/i3) and [rofi](https://github.com/catppuccin/rofi/tree/main/basic) theme
+- Oh-my-posh [material theme](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/material.omp.json)
+## Screenshots
+<div align="center">
+<img height="auto" src="/assets/1.png">
+<img height="auto" src="/assets/3.png">
+<img height="auto" src="/assets/4.png">
+<img height="auto" src="/assets/5.png">
+
+</div>
